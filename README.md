@@ -4,16 +4,13 @@
 
 **💮1° Comando✓** 
 pkg upgrade -y && pkg update -y && pkg install python -y && pkg install nodejs-lts -y && pkg install nodejs -y && pkg install git -y && pkg install ffmpeg -y && pkg install wget -y 
-
-hehehe 
- ____________________
-
+_________________
 **💮2° Comando✓** 
 
 termux-setup-storage 
 
 hehehe 
-__________________
+_________________
 **💮3° Comando✓**
 
 cd /sdcard/
@@ -28,8 +25,6 @@ ____________________
 **💮5° Comando✓**
 
 cd /storage/emulated/0/sakura-botv6.9.5
-
-hehehe 
 _____________________
  🧸•INICIAR A BOT•🧸
 
