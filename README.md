@@ -26,12 +26,4 @@ ____________________
 
 cd /storage/emulated/0/sakura-botv6.9.5
 _____________________
- 🧸•INICIAR A BOT•🧸
 
-       sh scheyot.sh
-       ______________
-
-    segue no insta
-  
-   https://instagram.com/wesdacoronel?igshid=OGQ5ZDc2ODk2ZA==
-____________________________
